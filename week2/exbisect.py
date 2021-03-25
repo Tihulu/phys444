@@ -1,3 +1,4 @@
+#https://pythonnumericalmethods.berkeley.edu/notebooks/chapter19.03-Bisection-Method.html
 import numpy as np
 
 def my_bisection(f, a, b, tol): 
